@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1497880695 source:d:\csvtesting\listadinamica-master\arraylist\utest.c
+	"utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1497880695 d:\csvtesting\listadinamica-master\arraylist\utest.h
+
+1497880695 source:d:\csvtesting\listadinamica-master\arraylist\examples\example_4\src\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/ArrayList.h"
+
+1497880695 d:\csvtesting\listadinamica-master\arraylist\examples\example_4\inc\arraylist.h
+
+1498055680 source:d:\csvtesting\listadinamica-master\arraylist\examples\example_4\src\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+	"../inc/ArrayList.h"
+
+1498050036 d:\csvtesting\listadinamica-master\arraylist\examples\example_4\inc\employee.h
+
+1498055102 source:d:\csvtesting\listadinamica-master\arraylist\examples\example_4\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/ArrayList.h"
+	"../inc/Employee.h"
+
