@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1499256740 source:d:\finalquetto\arraylist\examples\example_4\src\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/ArrayList.h"
+
+1499256740 d:\finalquetto\arraylist\examples\example_4\inc\arraylist.h
+
+1499263966 source:d:\finalquetto\arraylist\examples\example_4\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/ArrayList.h"
+	"../inc/Employee.h"
+
+1499262962 d:\finalquetto\arraylist\examples\example_4\inc\employee.h
+
+1499263953 source:d:\finalquetto\arraylist\examples\example_4\src\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+	"../inc/ArrayList.h"
+	"../inc/Employee.h"
+
